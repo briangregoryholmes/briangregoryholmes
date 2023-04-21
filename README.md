@@ -1,4 +1,4 @@
-### Hi there, I'm Cindy Chau 👋
+### Hi there, I'm Brian Holmes 👋
 
 I am a full-stack engineer and cloud architect in New York City. Most recently, I have been working on Svelvet, a open-source component library for building complex, dynamic, node-based user interfaces.
 
