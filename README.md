@@ -1,6 +1,8 @@
-### Hi there, I'm Brian Holmes 👋
+### 👋 Hi there, I'm Brian Holmes 
 
-I am a full-stack engineer and cloud architect in New York City. Most recently, I have been working on Svelvet, a open-source component library for building complex, dynamic, node-based user interfaces.
+I'm a full-stack engineer and cloud architect based out of New York City. Most recently, I've been working on Svelvet, an open-source component library for building dynamic, node-based user interfaces.
+
+Side projects involve audio synthesis, digital signal processing and spatial computing.
 
 Connect with me: 
 
